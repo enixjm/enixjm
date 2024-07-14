@@ -5,6 +5,7 @@
     <a href="https://enixjm.github.io">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://enixjm.github.io"/>
     </a>
+   <img src="https://www.codewars.com/users/enixjm/badges/small"/>
   </p>
   <br> 
 </div>
